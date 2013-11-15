@@ -2,7 +2,7 @@
 
 
 By [Phil Worthington](https://github.com/philworthington).
-Based on Railscast #136 by [Ryan Bates](http://railscasts.com/episodes/136-jquery-ajax-revised?view=asciicast)
+Based on Railscast #136 by [Ryan Bates](http://railscasts.com/episodes/136-jquery-ajax-revised?view=asciicast).
 
 
 
