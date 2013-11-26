@@ -25,3 +25,7 @@ Used as a sample for fully ajaxified CRUD actions in a Rails app.
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
+
+## License
+
+MIT: http://philworthington.mit-license.org
